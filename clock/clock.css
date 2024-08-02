@@ -1,0 +1,11 @@
+body{
+    background: #283e42;
+color: white;
+}
+#clock{
+    font-size: 50px;
+    align-items: center;
+}
+#container{
+    align-items: center;
+}
